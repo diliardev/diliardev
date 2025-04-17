@@ -20,7 +20,7 @@
 ## 💻 Kenntnisse
 
 - 🐍 Python (Grundlagen, CLI-Projekte)
-- 💾 MySQL (Basics)
+- 💾 PostrgreSQL (Basics)
 - 🌐 HTML, CSS
 - 🛠 Git & GitHub
 
