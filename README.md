@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, ich bin Diliar 👋</h1>
 
-<!--
-**diliardev/diliardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Ich bereite mich auf eine Ausbildung als Fachinformatiker für Anwendungsentwicklung vor.</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Über mich
+
+- 🇰🇬 Herkunft: Kirgisistan, Bishkek  
+- 🗣 Deutschlevel: B1 (Goethe Zertifikat - 3 Teile)  
+- 📍 Aktuell: Wasserburg am Inn, Deutschland  
+- 🎯 Ziel: Ausbildung im Bereich App-Entwicklung (Python, Web) ab August/September 2025  
+- 📱 Tel: +49 1525 8664104  
+- 📧 Mail: dilyarahmullaev@gmail.com
+
+---
+
+## 💻 Kenntnisse
+
+- 🐍 Python (Grundlagen, CLI-Projekte)
+- 💾 MySQL (Basics)
+- 🌐 HTML, CSS
+- 🛠 Git & GitHub
+
+---
+
+## 📂 Projekte
+
+- 🔹 [To-Do App in Python](https://github.com/diliardev/todo-python) – einfache CLI-Anwendung mit Dateispeicherung  
+- 🔹 Visitenkarten-Website (bald)
+
+---
+
+## 📜 Zertifikate
+
+- 📄 [SoloLearn Python Developer](https://www.sololearn.com/certificates/CC-GIARJXIZ)
+
+---
+
+## ✨ Motivation
+
+> Ich liebe das Programmieren, lerne täglich selbstständig weiter und bin bereit, mich schnell weiterzuentwickeln. Ich freue mich auf eine Ausbildung, bei der ich mein Potenzial zeigen kann.
+
+---
+
+## 🙌 Danke fürs Vorbeischauen!
