@@ -8,13 +8,19 @@
 
 ## 👨‍💻 Über mich
 
-- 🇰🇬 Herkunft: Kirgisistan, Bishkek  
-- 🗣 Deutschlevel: B1 (Goethe Zertifikat - 3 Teile)  
+- 🇰🇬 Herkunft: Kirgisistan, Bishkek   
 - 📍 Aktuell: Wasserburg am Inn, Deutschland  
 - 🎯 Ziel: Ausbildung im Bereich App-Entwicklung (Python, Web) ab August/September 2025  
 - 📱 Tel: +49 1525 8664104  
 - 📧 Mail: dilyarahmullaev@gmail.com
 
+---
+## 🌍 Sprachen
+
+- Deutsch: B1 (Goethe-Zertifikat)
+- Englisch: B1 (technisches Lesen, Schreiben)
+- Russisch: Muttersprache
+  
 ---
 
 ## 💻 Kenntnisse
