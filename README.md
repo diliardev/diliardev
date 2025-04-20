@@ -35,7 +35,7 @@
 ## 📂 Projekte
 
 - 🔹 [To-Do App in Python](https://github.com/diliardev/todo-python) – einfache CLI-Anwendung mit Dateispeicherung  
-- 🔹 Visitenkarten-Website (https://github.com/diliardev/dev-portfolio)
+- 🔹 [Visitenkarten-Website](https://github.com/diliardev/dev-portfolio)
 
 ---
 
