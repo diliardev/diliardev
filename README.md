@@ -1,7 +1,7 @@
 <h1 align="center">Hi, ich bin Diliar 👋</h1>
 
 <p align="center">
-  <b>Ich bereite mich auf eine Ausbildung als Fachinformatiker für Anwendungsentwicklung vor.</b>
+  <b>Ich bin als Informatiker in der Anwendungsentwicklung ausgebildet.</b>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ---
 ## 🌍 Sprachen
 
-- Deutsch: B1 (Goethe-Zertifikat)
+- Deutsch: B2
 - Englisch: B1 (technisches Lesen, Schreiben)
 - Russisch: Muttersprache
   
