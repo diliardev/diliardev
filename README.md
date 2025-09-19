@@ -9,8 +9,7 @@
 ## 👨‍💻 Über mich
 
 - 🇰🇬 Herkunft: Kirgisistan, Bishkek   
-- 📍 Aktuell: Wasserburg am Inn, Deutschland  
-- 🎯 Ziel: Ausbildung im Bereich App-Entwicklung (Python, Web) ab August/September 2025  
+- 📍 Aktuell: Wasserburg am Inn, Deutschland   
 - 📱 Tel: +49 1525 8664104  
 - 📧 Mail: dilyarahmullaev@gmail.com
 
