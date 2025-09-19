@@ -8,8 +8,7 @@
 
 ## 👨‍💻 Über mich
 - 🌍 Herkunft: **Bischkek, Kirgisistan**  
-- 📍 Wohnort: **Deutschland**  
-- 📱 Tel: **+49 1525 8664104**  
+- 📍 Wohnort: **Deutschland**    
 - 📧 Mail: **dilyarahmullaev@gmail.com**
 
 ---
